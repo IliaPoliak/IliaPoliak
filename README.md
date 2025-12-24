@@ -2,7 +2,7 @@
 👋 Hi, I'm Ilia
 </h1>
 
-<p align="center" color="red">
+<p align="center">
 Full-stack developer <b>|</b> FIIT STU Student
 </p>
 
