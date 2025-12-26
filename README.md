@@ -22,6 +22,6 @@ Full-Stack Developer | FIIT STU Bratislava | 3rd Year Bachelor’s Student
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
 
   <!-- Databases -->
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"/>
 
 </p>
