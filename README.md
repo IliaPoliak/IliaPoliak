@@ -13,7 +13,7 @@ Full-Stack Developer | FIIT STU Bratislava | 3rd Year Bachelor’s Student
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"/>
 
 
   <!-- Backend -->
