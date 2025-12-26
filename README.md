@@ -26,5 +26,6 @@ Full-Stack Developer | FIIT STU Bratislava | 3rd Year Bachelor’s Student
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
 
 </p>
