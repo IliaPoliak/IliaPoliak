@@ -19,9 +19,9 @@ Full-Stack Developer | FIIT STU Bratislava | 3rd Year Bachelor’s Student
   <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
 
   <!-- Databases -->
-<img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white"/>
 
 </p>
