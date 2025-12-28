@@ -7,20 +7,25 @@ Full-Stack Developer | FIIT STU Bratislava | 3rd Year Bachelor’s Student
 </p>
 
 <p align="center">
-  
+
   <!-- Frontend -->
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-050F2C?logo=html5&logoColor=E34F26&style=for-the-badge"/>
-
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-050F2C?logo=css&logoColor=1572B6&style=for-the-badge"/>
-
-  <img alt="React" src="https://img.shields.io/badge/React-050F2C?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-050F2C?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge"/>
-
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-050F2C?logo=angular&logoColor=DD0031&style=for-the-badge"/>
-
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-050F2C?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge"/>
-
+  <div align="center">
+  
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-050F2C?logo=html5&logoColor=E34F26&style=for-the-badge"/>
+  
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-050F2C?logo=css&logoColor=1572B6&style=for-the-badge"/>
+  
+    <img alt="React" src="https://img.shields.io/badge/React-050F2C?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-050F2C?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge"/>
+  
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-050F2C?logo=angular&logoColor=DD0031&style=for-the-badge"/>
+  
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-050F2C?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge"/>
+    
+  </div>
+    
+  
   <!-- Backend -->
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050F2C?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
 
