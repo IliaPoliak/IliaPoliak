@@ -24,9 +24,9 @@ Full-Stack Developer <b>|</b> FIIT STU Bratislava <b>|</b> 3rd Year Bachelor’s
     <img alt="Node.js" src="https://img.shields.io/badge/Node-050F2C?logo=node.js&logoColor=339933&style=for-the-badge"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-050F2C?logo=python&logoColor=3776AB&style=for-the-badge"/>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-050F2C?logo=rust&logoColor=FFFFFF&style=for-the-badge"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-050F2C?logo=openjdk&logoColor=ED8B00&style=for-the-badge"/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-050F2C?logo=php&logoColor=777BB4&style=for-the-badge"/>
     <img alt="C" src="https://img.shields.io/badge/-050F2C?logo=c&logoColor=A8B9CC&style=for-the-badge"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-050F2C?logo=openjdk&logoColor=ED8B00&style=for-the-badge"/>
   </div>
 
   <!-- Databases -->
