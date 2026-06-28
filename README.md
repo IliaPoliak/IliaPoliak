@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Full-Stack Developer <b>|</b> FIIT STU Bratislava <b>|</b> 3rd Year Bachelor’s Student
+Software Engineer <b>|</b> FIIT STU Bratislava <b>|</b> Bachelor’s Degree in Computer Science
 </p>
 
 <p align="center">
